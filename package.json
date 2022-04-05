@@ -1,0 +1,25 @@
+{
+  "name": "chat_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.8.2",
+    "@emotion/styled": "^11.8.1",
+    "@mui/icons-material": "^5.5.1",
+    "@mui/material": "^5.5.3",
+    "@mui/styles": "^5.5.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "react-copy-to-clipboard": "^5.0.4",
+    "simple-peer": "^9.11.1",
+    "socket.io": "^4.4.1",
+    "socket.io-client": "^4.4.1"
+  }
+}

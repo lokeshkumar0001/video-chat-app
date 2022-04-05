@@ -1,0 +1,21 @@
+
+.gridContainer{
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.paper{
+    padding: 10px;
+    border: 2px solid black;
+    margin: 10px;
+    border-radius: 25px;
+    background-color: aliceblue;
+}
+.video{
+    width: 500px;
+}
+
+h5{
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+}
