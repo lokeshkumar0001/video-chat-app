@@ -7,12 +7,14 @@ import "./app.css"
 
 function App() {
   return (
+
     <div className='wrapper'>
       <h1 className='appbar'>Video Call</h1>
-      <VideoPlayer />
-      <Options>
-        <Notification />
-      </Options>
+        <VideoPlayer />
+        <Options>
+          <Notification />
+        </Options>
+      
       
     </div>
   )
